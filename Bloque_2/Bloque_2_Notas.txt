@@ -1,0 +1,8 @@
+El Codigo en esta Carpeta es para el Bloque_2 
+
+2-1: Encendiendo un LED                                 /led
+2-2: LED con un cambio en la duración del parpadeo      /blink 
+2-3: LED fade sketch                                    /fade
+2-4: Control simple de un LED con un boton              /led_button 
+2-5: Debounced button toggling                          /debounce
+2-6: Toggling LED NightLight                            /rgb_nightlight
